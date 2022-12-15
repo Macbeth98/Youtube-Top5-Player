@@ -6,7 +6,7 @@ import SearchBar from './components/searchbar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyD_kDdGKT2LgekV_8_65NjYJbSFJT7Gu9Q';
+const API_KEY = 'AIzaSyDGxSq8lkvWBBKuXICMsYcu0KKbdVGNYGM';
 
 //Example for YT search
 //new Component and it should produce the HTML
